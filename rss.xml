@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Prague]]></title>
         <description><![CDATA[Prague]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/prague/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 23:37:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 22 Feb 2016 23:43:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/prague/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Amsterdam]]></title>
             <description><![CDATA[<article><h1>Amsterdam</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b7988cce14dbe75d6a3cd1a60fbae3d60c832399.jpg"></article>]]></description>
-            <link>undefinedamsterdam/index.html</link>
+            <link>https://thegrid.ai/prague/amsterdam/index.html</link>
             <guid isPermaLink="false">c21a4642-03b5-455d-b3de-70d1cc850dfc</guid>
-            <pubDate>Mon, 22 Feb 2016 23:37:14 GMT</pubDate>
+            <pubDate>Mon, 22 Feb 2016 23:43:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
