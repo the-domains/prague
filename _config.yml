@@ -1,7 +1,7 @@
 name: Prague
 favicon: null
-layout_spectrum: 0.2979261609725654
-typography_spectrum: 0.8629346555098891
+layout_spectrum: 0.9002
+typography_spectrum: 0.47819
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.4083898572716862
+    - '#2f2f2f'
+    - '#787878'
+    - '#dcdcdc'
+    - '#ffffff'
+    - '#bcbcbc'
+  brandStrength: 0.25
   lightness: 0.6821926978882402
   saturation: 0.770668635610491
-  rhythmicContrast: 0.4677031822502613
+  rhythmicContrast: 0.75
 purpose: []
