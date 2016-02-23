@@ -6,22 +6,22 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T16:57:42.002Z'
-dateModified: '2016-02-23T16:57:41.533Z'
+datePublished: '2016-02-23T17:14:37.322Z'
+dateModified: '2016-02-23T17:14:33.851Z'
 title: Ghost Tree
 author: []
+sourcePath: _posts/2016-02-23-ghost-tree.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-23-ghost-tree.md
-published: true
 url: ghost-tree/index.html
 _type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/25d7f05f-109b-481a-95b9-872550992b92.jpg)
+![Caption](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9888fc732f7c46e5cff91328156e885f4f2ef5cd.jpg)
 
 4th page
