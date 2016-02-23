@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T16:53:57.981Z'
-dateModified: '2016-02-23T16:53:35.384Z'
+datePublished: '2016-02-23T16:54:13.514Z'
+dateModified: '2016-02-23T16:53:59.478Z'
 title: Amsterdam
 author: []
 sourcePath: _posts/2016-02-22-amsterdam.md
