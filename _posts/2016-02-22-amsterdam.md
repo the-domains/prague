@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T16:58:10.182Z'
-dateModified: '2016-02-23T16:57:57.982Z'
-title: Amsterdam
+datePublished: '2016-02-23T17:11:23.018Z'
+dateModified: '2016-02-23T17:11:13.726Z'
+title: Amsterdam Home Page
 author: []
 sourcePath: _posts/2016-02-22-amsterdam.md
 published: true
@@ -22,4 +22,4 @@ url: amsterdam/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5fef400f-ea6d-4558-9f93-7fb86704a539.jpg)
+![Caption](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b7988cce14dbe75d6a3cd1a60fbae3d60c832399.jpg)
