@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T16:55:01.092Z'
-dateModified: '2016-02-23T16:54:41.423Z'
+datePublished: '2016-02-23T16:58:10.182Z'
+dateModified: '2016-02-23T16:57:57.982Z'
 title: Amsterdam
 author: []
 sourcePath: _posts/2016-02-22-amsterdam.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: amsterdam/index.html
-_type: WebPage
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5fef400f-ea6d-4558-9f93-7fb86704a539.jpg)
